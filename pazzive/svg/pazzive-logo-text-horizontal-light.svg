@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="135.897" height="25" viewBox="0 0 135.897 25">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.123" y1="-0.128" x2="0.925" y2="0.915" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a600ff"/>
+      <stop offset="1" stop-color="#00edff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-62 -37)">
+    <g id="Z-coin-light" transform="translate(46 21)">
+      <g id="Group-12-Copy-2" transform="translate(16 16)">
+        <g id="Group-6">
+          <path id="Combined-Shape" d="M13.918,25l11-11.89v4.917L18.325,25Zm-9,0,20-20.493V8.956L9.5,25ZM0,20.725,18.029,3.174H3.446v7.3H.282V0L25,.237,0,25Z" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+    </g>
+    <path id="PAZZIVE" d="M77.879,21V0H86.9V2.831H80.9V9h5.221v2.831H80.9v6.165H86.9V21ZM66.244,21l-4.3-21h3.2l2.4,14.658h.059L70.041,0h3.2L68.914,21Zm-12.05,0V0h3.026V21ZM40.423,21V18.346l5.7-15.514h-5.4V0h8.691V2.389L43.6,18.168h5.814V21Zm-12.7,0V18.346l5.7-15.514h-5.4V0h8.691V2.389l-5.814,15.78h5.814V21Zm-6.356,0-.889-4.513H16.351L15.462,21H12.436L17.152,0h2.522L24.39,21ZM0,21V0H4.539a6.79,6.79,0,0,1,2.2.324,4.216,4.216,0,0,1,1.72,1.151A4.484,4.484,0,0,1,9.522,3.407a12,12,0,0,1,.3,2.993,14.747,14.747,0,0,1-.164,2.39,4.99,4.99,0,0,1-.7,1.829A4.414,4.414,0,0,1,7.3,12.226a5.618,5.618,0,0,1-2.729.575H3.026V21Z" transform="translate(111 39)" fill="#dad4e5"/>
+  </g>
+</svg>

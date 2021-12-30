@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="262" height="275" viewBox="0 0 262 275">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0c2f5b"/>
+      <stop offset="0.999" stop-color="#280345"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#e6f5ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="-0.123" y1="-0.128" x2="0.925" y2="0.915" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a600ff"/>
+      <stop offset="1" stop-color="#00edff"/>
+    </linearGradient>
+  </defs>
+  <g id="Z_coin_light" data-name="Z coin light" transform="translate(0.5 0.5)">
+    <ellipse id="Oval_Copy_18" data-name="Oval Copy 18" cx="130.5" cy="137" rx="130.5" ry="137" stroke="#707070" stroke-miterlimit="10" stroke-width="1" fill="url(#linear-gradient)"/>
+    <ellipse id="Oval_Copy_19" data-name="Oval Copy 19" cx="127" cy="132.5" rx="127" ry="132.5" transform="translate(4 4)" stroke="#707070" stroke-miterlimit="10" stroke-width="1" fill="url(#linear-gradient-2)"/>
+    <g id="Group_12_Copy_2" data-name="Group 12 Copy 2" transform="translate(73 75)">
+      <g id="Group_6" data-name="Group 6">
+        <path id="Combined_Shape" data-name="Combined Shape" d="M65.689,123l51.923-58.5V88.694L86.492,123Zm-42.461,0L117.612,22.175V44.062L44.859,123ZM0,101.967,85.1,15.62H16.264v35.9H1.33V0L118,1.166,0,123Z" fill="url(#linear-gradient-3)"/>
+      </g>
+    </g>
+  </g>
+</svg>
