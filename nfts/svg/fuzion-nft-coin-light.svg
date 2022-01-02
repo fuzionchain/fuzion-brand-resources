@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="504px" height="504px" viewBox="0 0 504 504" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>gold-coin copy</title>
+    <defs>
+        <linearGradient x1="79.2013378%" y1="7.69465366%" x2="28.2538431%" y2="96.647557%" id="linearGradient-1">
+            <stop stop-color="#FFECA5" offset="0%"></stop>
+            <stop stop-color="#E1B244" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="47.9173289%" y1="0%" x2="45.2639952%" y2="78.903311%" id="linearGradient-2">
+            <stop stop-color="#D59436" offset="0%"></stop>
+            <stop stop-color="#E6B849" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="67.5674864%" y1="15.4236265%" x2="42.5925533%" y2="94.4335358%" id="linearGradient-3">
+            <stop stop-color="#FCF26F" offset="0%"></stop>
+            <stop stop-color="#FAB553" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="73.5111189%" y1="15.4236265%" x2="40.0863814%" y2="94.4335358%" id="linearGradient-4">
+            <stop stop-color="#FCF26F" offset="0%"></stop>
+            <stop stop-color="#FAB553" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,183.85453 L146.131915,268.445746 L222.971815,223.909074 L260.44925,245.603969 L136.948694,317.095588 L0,237.821691 L0,183.85453 Z M0,94.8366619 L195.553467,208.036379 L146.122829,236.687234 L0,152.101975 L0,94.8366619 Z M129.280878,80.6572997 L273.895269,164.366588 L273.895269,221.633693 L79.550006,109.133011 L129.280878,80.6572997 Z M136.948694,-1.21571233e-14 L273.897059,79.2738971 L273.897059,132.615824 L129.356076,48.9475513 L52.3393178,93.3821382 L13.9812812,71.1798978 L136.948694,-1.21571233e-14 Z" id="path-5"></path>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50.1399079%" gradientTransform="translate(0.500000,0.500000),scale(0.781189,1.000000),rotate(85.718775),translate(-0.500000,-0.500000)" id="radialGradient-7">
+            <stop stop-color="#EC9B27" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.444096919" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-8">
+            <stop stop-color="#C5862B" offset="0%"></stop>
+            <stop stop-color="#AA6B11" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="74.5571476%" y1="7.12434427%" x2="27.9906739%" y2="92.5475011%" id="linearGradient-9">
+            <stop stop-color="#FCE083" offset="0%"></stop>
+            <stop stop-color="#D48A21" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#1D1D1D" offset="99.9796834%"></stop>
+        </linearGradient>
+        <linearGradient x1="87.4658639%" y1="76.9239884%" x2="12.5341361%" y2="76.9233812%" id="linearGradient-11">
+            <stop stop-color="#EEB462" offset="0%"></stop>
+            <stop stop-color="#D17E29" offset="49.6090348%"></stop>
+            <stop stop-color="#EA9D32" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-12">
+            <stop stop-color="#1D1D1D" offset="0.0203165975%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-13">
+            <stop stop-color="#1D1D1D" offset="0.0203165975%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-14">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#1D1D1D" offset="99.9796834%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gold-coin-copy" transform="translate(2.000000, 2.000000)">
+            <g id="gold-coin">
+                <g id="super-coin-light">
+                    <circle id="Oval-Copy-9" stroke="url(#linearGradient-1)" stroke-width="4" fill="#C5862B" fill-rule="nonzero" cx="250" cy="250" r="250"></circle>
+                    <circle id="Oval-Copy-10" fill="url(#linearGradient-2)" fill-rule="nonzero" cx="249.540441" cy="249.540441" r="208.180147"></circle>
+                    <line x1="93.75" y1="404.411765" x2="395.220588" y2="104.779412" id="Line-Copy" stroke="#C5832A" stroke-width="7" stroke-linecap="square"></line>
+                    <g id="Oval-Copy-11" style="mix-blend-mode: darken;" transform="translate(113.051471, 90.992647)">
+                        <g id="Mask" fill="#010101" fill-rule="nonzero" stroke="url(#linearGradient-4)" stroke-width="2">
+                            <path d="M0,183.85453 L146.131915,268.445746 L222.971815,223.909074 L260.44925,245.603969 L136.948694,317.095588 L0,237.821691 L0,183.85453 Z M0,94.8366619 L195.553467,208.036379 L146.122829,236.687234 L0,152.101975 L0,94.8366619 Z M129.280878,80.6572997 L273.895269,164.366588 L273.895269,221.633693 L79.550006,109.133011 L129.280878,80.6572997 Z M136.948694,-1.21571233e-14 L273.897059,79.2738971 L273.897059,132.615824 L129.356076,48.9475513 L52.3393178,93.3821382 L13.9812812,71.1798978 L136.948694,-1.21571233e-14 Z" id="path-4"></path>
+                        </g>
+                        <g id="Oval-Clipped">
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-5"></use>
+                            </mask>
+                            <g id="path-4"></g>
+                            <ellipse id="Oval" fill="url(#radialGradient-7)" fill-rule="nonzero" opacity="0.746029082" mask="url(#mask-6)" cx="102.040081" cy="52.8492647" rx="175.437332" ry="137.049788"></ellipse>
+                        </g>
+                    </g>
+                    <g id="Oval-Copy-12" transform="translate(1.838235, 1.838235)">
+                        <g id="path-8-link" fill="url(#linearGradient-8)" fill-rule="nonzero">
+                            <circle id="path-8" cx="247.242647" cy="247.242647" r="247.242647"></circle>
+                        </g>
+                        <circle id="Oval" stroke="url(#linearGradient-9)" stroke-width="20" cx="247.242647" cy="247.242647" r="237.388773"></circle>
+                    </g>
+                </g>
+                <circle id="Combined-Shape" fill-opacity="0.08" fill="#FFFFFF" cx="250.919118" cy="250.919118" r="217.830882"></circle>
+            </g>
+            <g id="Mask" transform="translate(96.436878, 73.310023)">
+                <path d="M0,222.9 L153.471006,312.451732 L254.89144,253.764513 L291.571,274.968 L153.554917,354.662005 L0.000277854942,265.996503 L0,222.9 Z M269.337,145.321 L307.109,167.163 L307.109,248.454 L269.337,226.637 L269.337,145.321 Z M0,106.414 L37.359,128.011 L37.359,209.306 L0,187.486 L0,106.414 Z M153.554917,-1.34150859e-14 L307.109557,88.6655012 L307.109,131.589 L153.335937,42.6575135 L52.6824404,101.501513 L15.231,79.87 L153.554917,-1.34150859e-14 Z" id="Combined-Shape" fill="url(#linearGradient-10)" transform="translate(153.554779, 177.331002) scale(1, -1) translate(-153.554779, -177.331002) "></path>
+                <g id="Group-10" transform="translate(66.903849, 77.542301)">
+                    <path d="M87.0637264,2.27373675e-13 L174.127453,50.2900179 L174.127453,83.5588915 L144.764517,100.580036 L144.764517,167.850162 L115.914122,184.497544 L115.914122,117.18512 L87.0637264,133.835575 L87.0637264,201.15664 L58.1446431,184.460207 L28.919,128.938 L28.9190833,167.575395 L2.27373675e-13,150.870054 L2.27373675e-13,50.2900179 L28.9190833,66.9987909 L58.144,122.52 L58.1446431,83.8782089 L87.0637264,100.580036 L145.204,66.997 L86.7589642,33.2277957 L73.928,40.716 L105.392512,58.9092165 L76.4778676,75.6184208 L45.163,57.508 L28.9190833,66.9905429 L2.27373675e-13,50.2900179 L87.0637264,2.27373675e-13 Z" id="Combined-Shape" fill="url(#linearGradient-11)"></path>
+                    <g id="Group-9">
+                        <path d="M28.919,128.938018 L28.9190833,167.575395 L0,150.870054 L0,50.2900179 L28.9190833,66.9987909 L58.144,122.520018 L58.1446431,83.8782089 L87.0637264,100.580036 L87.0637264,201.15664 L58.1446431,184.460207 L28.919,128.938018 Z" id="Combined-Shape" fill="url(#linearGradient-12)"></path>
+                        <polygon id="Path-10-Copy" fill="url(#linearGradient-13)" points="87.0637264 100.580036 174.127453 50.2900179 174.127453 83.5588915 144.764517 100.580036 144.764517 167.850162 115.914122 184.497544 115.914122 117.18512 87.0637264 133.835575"></polygon>
+                        <path d="M87.0637264,0 L174.127453,50.2900179 L145.208369,66.9992222 L86.7589642,33.2277957 L73.925,40.72 L105.392512,58.9092165 L76.4778676,75.6184208 L45.169,57.511 L28.9190833,66.9992222 L0,50.2900179 L87.0637264,0 Z" id="Combined-Shape" fill="url(#linearGradient-14)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
